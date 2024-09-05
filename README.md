@@ -28,22 +28,30 @@ In `Settings` > `Sound` > `Other sounds and vibration`, disable everything
 # NSPanel Settings
 ## Display Tab
 - Open the NSPanelTools from Ultra Small Launcher
-- Click "Active" in the top-right corner ✔️
-- Wake on Wave ✔️
-- Wake from Screen savers ✔️
+- Click "Active" in the top-right corner ✅
+- Wake on Wave ✅
+- Wake from Screen savers ✅
 - Display Sleep `15 seconds`
 - Display Sleep mode `Screen dim`
 
 ## Tools Tab
 - Launch App After Reboot: `HomeAssistant`
-- Wait for WiFi ✔️
-- Watchdog ✔️
-- NavigationBar ❎
+- Wait for WiFi :check
+- Watchdog ✅
+- NavigationBar ❌
+- NavigationBar on swipe up ❌
+- NotificationBar on swipe down ❌
+- Home on gesture ❌
 
 ## Integration Tab
+- Enabled MQTT, enter MQTT server info
+- Update MQTT Client Id
+- Enable HA Integration ✅
+- Topic prefix: `homeassistant`
 
 ## Settings Tab
-
+- Resume on boot ✅
+- Scheduled reboot when applicable ✅ (⚠ bedrooms)
 
 
 # Disable all useless services and packages
