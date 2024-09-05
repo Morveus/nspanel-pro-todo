@@ -1,6 +1,8 @@
 # nspanel-pro-todo
 Personal checklist to follow when deploying a new NSPanelPro
 
+NSPanelProTools: https://github.com/seaky/nspanel_pro_tools_apk
+
 # Go dev
 In the ewelink app, go to settings, tap 10 times on the system version and enable `Developer Mode`
 
@@ -24,8 +26,23 @@ and select the new launcher.
 In `Settings` > `Sound` > `Other sounds and vibration`, disable everything
 
 # NSPanel Settings
-- [] Open the NSPanelTools
-- [] Click "Active" in the top-right corner
+## Display Tab
+- Open the NSPanelTools from Ultra Small Launcher
+- Click "Active" in the top-right corner ✔️
+- Wake on Wave ✔️
+- Wake from Screen savers ✔️
+- Display Sleep `15 seconds`
+- Display Sleep mode `Screen dim`
+
+## Tools Tab
+- Launch App After Reboot: `HomeAssistant`
+- Wait for WiFi ✔️
+- Watchdog ✔️
+- NavigationBar ❎
+
+## Integration Tab
+
+## Settings Tab
 
 
 
