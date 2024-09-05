@@ -24,8 +24,8 @@ and select the new launcher.
 In `Settings` > `Sound` > `Other sounds and vibration`, disable everything
 
 # NSPanel Settings
-[] Open the NSPanelTools
-[]
+- [] Open the NSPanelTools
+- [] Click "Active" in the top-right corner
 
 
 
